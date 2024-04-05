@@ -52,5 +52,5 @@ def start(filename):
 
 
 
-filename = "C:/imagens/dog.jpeg"
+filename = "foto/dog.jpeg"
 start(filename)
